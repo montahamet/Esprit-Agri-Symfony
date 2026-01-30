@@ -1,10 +1,10 @@
 # Esprit-Agri – Your Ally in Agriculture 🌱
 
-**Esprit-Agri** is an integrated agricultural platform available as **web, mobile, and desktop applications**, designed to connect **farmers, investors, and agricultural workers**. Built with **PHP Symfony**, it empowers stakeholders in the agricultural ecosystem to manage resources, invest in projects, and access job opportunities efficiently.
+**Esprit-Agri** is an integrated agricultural platform available as **web and desktop applications**, designed to connect **farmers, investors, and agricultural workers**. Built with **PHP Symfony**, it empowers stakeholders in the agricultural ecosystem to manage resources, invest in projects, and access job opportunities efficiently.
 
 ## Business Value
 Esprit-Agri aims to **modernize agricultural operations** and bridge gaps in investment, labor, and resource management:
-- **For Farmers:** Optimize resource management, track finances, sell products on an agricultural marketplace, and access AI-powered advisory through a chatbot.
+- **For Farmers:** Optimize resource management, track finances, sell products on an agricultural marketplace.
 - **For Investors:** Discover and invest in agricultural projects, creating opportunities for growth in the sector.
 - **For Workers:** Access agricultural job opportunities, helping farmers solve labor shortages and workers find employment.
 
@@ -14,7 +14,6 @@ Esprit-Agri aims to **modernize agricultural operations** and bridge gaps in inv
 - **Resource Management:** Track and manage crops, equipment, and livestock.
 - **Financial Management:** Generate financial statements including balance sheets and profit/loss reports.
 - **Agricultural Marketplace:** Facilitate the sale of products directly through the platform.
-- **Advisory Chatbot:** Access AI-powered advice for farm management and productivity.
 
 ### Investor Module
 - **Project Investment:** Browse agricultural projects and invest with transparency.
